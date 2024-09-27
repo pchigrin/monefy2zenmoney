@@ -1,3 +1,5 @@
+[![Build-All-Platforms](https://github.com/pchigrin/monefy2zenmoney/actions/workflows/main.yml/badge.svg)](https://github.com/pchigrin/monefy2zenmoney/actions/workflows/main.yml)
+
 # monefy2zenmoney
 
 Convert CSV data from Monefy to Zenmoney format
